@@ -1,0 +1,1 @@
+pyinstaller -F -w mainwindow.py -i E:\Project\Python\QRNG\source\ico\logo.ico -p detectionset.py -p entropyset.py -p extractorset.py -p Thread.py --path E:\Project\Python\QRNG\venv\Lib\site-packages
